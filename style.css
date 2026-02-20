@@ -143,3 +143,16 @@ a{
     background-color: #434343;
      border-radius: 15px;
 }
+
+/* estilizando footer */
+
+footer{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    box-sizing: border-box;
+    padding: 1.2vh;
+}
